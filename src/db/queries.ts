@@ -1,4 +1,4 @@
-import { getDb } from "./index";
+import { getDb } from "./index.js";
 import { users, modules, wallets, transactions, budgets } from "./schema.js";
 import { eq, and, notInArray, inArray } from "drizzle-orm";
 
