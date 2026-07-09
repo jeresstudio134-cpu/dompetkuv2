@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Dompet-ku-v2",
+  "description": "Dompet digital pintar dengan pencatatan pengeluaran harian otomatis bertenaga AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
